@@ -1,5 +1,5 @@
 # 💫 About Me:
-👯 I’m student of computer science<br>🔭 I’m currently working on image recognition<br>🌱 I’m currently learning more about computer vision<br>💬 Ask me about<br>
+👯 I’m student of computer science<br>🔭<br>🌱 <br>💬 Ask me about<br>
 
 
 ## 🌐 Socials:
